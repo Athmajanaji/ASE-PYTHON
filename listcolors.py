@@ -1,4 +1,3 @@
-
 s1=input("enter the first set of colours  : ")
 s2=input("enter the second set of colours : ")
 s1=set(s1.split(" "))
